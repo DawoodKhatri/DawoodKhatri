@@ -1,5 +1,5 @@
 # Hi there 👋
-## [`About Me`](https://dawoodkhatri.vercel.app)
+## [`About Me`](https://dawoodkhatri.onrender.com)
 <!--
 **DawoodKhatri/DawoodKhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
