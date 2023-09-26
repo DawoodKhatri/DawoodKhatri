@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+**🛠️&nbsp;&nbsp;Technologies&nbsp;and&nbsp;Tools, I've worked with** <br/><br/>
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,nodejs,express,mongodb,postman,react,next,redux,python,flask,git,github,netlify,vercel,&perline=6)
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DawoodKhatri&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodKhatri&layout=compact&theme=tokyonight)](https://github.com/DawoodKhatri/github-readme-stats)
